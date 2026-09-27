@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ideas on Ram</title>
+		<link>http://localhost:1313/tags/ideas/</link>
+		<description>Recent content in Ideas on Ram</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Note From the Workshop</title>
+				<link>http://localhost:1313/posts/sample/</link>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/sample/</guid>
+				<description>&lt;p&gt;This is a sample post. Replace it with a thought, a project update, or something you have learned recently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;start-with-one-idea&#34;&gt;Start with one idea&lt;/h2&gt;&#xA;&lt;p&gt;A good post does not need to cover everything. Pick one idea, explain why it matters, and give the reader enough context to follow along.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Clear writing starts with knowing what you want to say.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;You can emphasize a phrase with &lt;strong&gt;bold text&lt;/strong&gt;, add a little nuance with &lt;em&gt;italics&lt;/em&gt;, or mention a command such as &lt;code&gt;hugo server&lt;/code&gt; inline.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

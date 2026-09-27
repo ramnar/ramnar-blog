@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Learning on Ram</title>
+		<link>http://localhost:1313/tags/learning/</link>
+		<description>Recent content in Learning on Ram</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Learning in Public, One Note at a Time</title>
+				<link>http://localhost:1313/posts/learning-in-public/</link>
+				<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/learning-in-public/</guid>
+				<description>&lt;p&gt;When learning something new, it is tempting to wait until you understand every detail before writing about it. That can mean never writing anything down at all.&lt;/p&gt;&#xA;&lt;p&gt;Small notes are a better place to start. Capture the question you had, what you tried, and what finally made sense. The explanation can be imperfect; you can improve it the next time you return to the subject.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-simple-note-taking-loop&#34;&gt;A simple note-taking loop&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Write down one question you want to answer.&lt;/li&gt;&#xA;&lt;li&gt;Try a small example and record what happened.&lt;/li&gt;&#xA;&lt;li&gt;Summarize the useful part in your own words.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Over time, these notes become a record of your progress and a practical reference for your future self. Sharing them can help someone else who is asking the same question.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

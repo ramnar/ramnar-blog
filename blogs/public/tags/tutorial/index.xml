@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tutorial on Ram</title>
+		<link>http://localhost:1313/tags/tutorial/</link>
+		<description>Recent content in Tutorial on Ram</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Starting a Blog with Hugo</title>
+				<link>http://localhost:1313/posts/starting-with-hugo/</link>
+				<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/starting-with-hugo/</guid>
+				<description>&lt;p&gt;This blog is built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static site generator that turns content files and templates into a site of plain HTML, CSS, and other assets.&lt;/p&gt;&#xA;&lt;p&gt;Posts live in Markdown files under &lt;code&gt;content/posts/&lt;/code&gt;. Each one begins with front matter for its title, date, tags, and publication status. The Paper theme supplies the layouts that turn those files into pages.&lt;/p&gt;&#xA;&lt;p&gt;To preview the site locally, run &lt;code&gt;hugo server&lt;/code&gt; from the directory containing &lt;code&gt;hugo.toml&lt;/code&gt;. Hugo watches the content files and refreshes the preview when they change.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
